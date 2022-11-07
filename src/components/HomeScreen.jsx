@@ -18,6 +18,7 @@ function HomeScreen() {
       <Row
         title="Netflix Originals"
         fetchURL={requests.fetchNetflixOriginals}
+        // isLargeRow
       />
       <Row
         title="Trending Now"
