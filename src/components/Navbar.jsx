@@ -23,7 +23,7 @@ function Navbar() {
       <div className="nav__contents">
         <img
           className="nav__logo"
-          src="https://raw.githubusercontent.com/dellucifer/Netflix-Clone/main/pngegg.png"
+          src="https://raw.githubusercontent.com/dellucifer/Netflix-Clone/main/public/pngegg.png"
           alt=""
         />
         <img
