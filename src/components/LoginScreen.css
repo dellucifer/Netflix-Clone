@@ -71,6 +71,12 @@
     width: 100px;
 }
 
+.loginScreen__form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .loginScreen__input > form > input{
     padding: 10px;
     outline-width: 0px;

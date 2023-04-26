@@ -33,7 +33,7 @@ function LoginScreen() {
             </h3>
 
             <div className="loginScreen__input">
-              <form>
+              <form className="loginScreen__form">
                 <input type="email" placeholder="Email Address" />
                 <button
                   onClick={() => setSignIn(true)}

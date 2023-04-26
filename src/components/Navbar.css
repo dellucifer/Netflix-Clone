@@ -21,6 +21,7 @@
     width: 80px;
     position: fixed;
     left: 20px;
+    cursor: pointer;
 }
 
 .nav__avatar {
@@ -28,4 +29,5 @@
     width: 30px;
     position: fixed;
     right: 20px;
+    cursor: pointer;
 }
